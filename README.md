@@ -12,7 +12,7 @@
      * affiche=1	namlig0														namlig1
      * affiche=2	namlig0											namlig1
      *
-     * 		afficheur			       affiche0 texte		   affiche1 graph		   affiche2 graph
+     * 		afficheur			 affiche0 texte		 affiche1 graph		 affiche2 graph
      *		|----------------|	|----------------|	|----------------|	|----------------|
      *		|namlig0 |namlig2|	|00:00:00| 12421V|	|00:00:00      | |	|00:00:00    |||||
      *		|namlig1 |namlig3|	|  -795mA| 92597%|	| 92597 % Ah |||||	|  -731mA cj |||||
